@@ -1,0 +1,61 @@
+.add-bg-color {
+  background-color: #fea101;
+}
+.header-bg {
+  background: linear-gradient(90deg, #0d5599, #248de3);
+}
+.header-bg img {
+  width: 150px;
+}
+.bg-main {
+  background-color: #e8e5ef;
+}
+/* .section{
+    background-color: #FEA101;
+}
+.section-1{
+    background-color: #248DE3;
+}
+.section-2{
+    background-color: rgb(246, 237, 237);
+}   */
+
+.color {
+  color: #248de3;
+}
+.text {
+  color: rgb(108, 106, 106);
+  font-size: large;
+}
+.section-color {
+  background: linear-gradient(90deg, #e59f39, #d475c5);
+}
+
+.sample {
+  position: relative;
+  top: -40px;
+}
+.trending-card-section .col-3 {
+  width: 32% !important;
+}
+
+.course-list .col-3 {
+  width: 23% !important;
+}
+
+.card-details {
+  /* display: none; */
+  background-color: rgba(0, 0, 0, 0.89);
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0;
+}
+.card-section:hover .card-details {
+  /*   */
+  flex-direction: column;
+}
+
+/* .learn-heading{
+    margin-left: -7rem;
+} */
